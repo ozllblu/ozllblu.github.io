@@ -4,6 +4,6 @@
 <head>
 </head>
 <body>
-    <img src="images/bban.jpg" alt="내 사진" style="width: 50%; max-width: 200px;">
+    <img src="https://raw.githubusercontent.com/ozllblu/ozllblu.github.io/main/bban.jpg" alt="내 사진" style="width: 50%; max-width: 200px;">
 </body>
 </html>
